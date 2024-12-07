@@ -1,0 +1,11 @@
+{
+  "name": "backend-project-nodejs",
+  "version": "1.0.0",
+  "description": "Backend codebase nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "satyender singh",
+  "license": "ISC"
+}
